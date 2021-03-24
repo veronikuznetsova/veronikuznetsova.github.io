@@ -1,0 +1,148 @@
+.bg{
+	background-image:url(../images/2.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height:400px;
+	opacity:0.5;
+}
+
+.name{
+	position: absolute; 
+    top: 15%;
+    margin-left: 8%;
+    color: #000000!important;
+}
+
+.prof{
+	position: absolute;
+	top:21%;
+	margin-left: 8%;
+	color: #FFFFFF!important;
+}
+
+.btn-1{
+	position: absolute;
+	top:40%;
+	margin-left: 8%;
+}
+
+.email{
+	position: absolute;
+	top:50%;
+	margin-left: 8%;
+	color: black!important;
+}
+
+nav{
+	position: fixed;
+	top: 0;
+}
+
+.navbar-nav{
+justify-content: space-between;
+margin: auto;
+}
+
+.col1, .col2, .col3{
+	position: relative;
+	background-color: #FFF5EE;
+	text-align: center;
+	color:#696969;
+	min-height: 600px;
+}
+
+.col2{
+	background-color: #F5F5F5;
+}
+
+h4{
+	position: relative;
+	top:10%;
+}
+
+hr{
+	color: #00BFFF!important;
+	position: relative;
+	top:10%;
+	margin-left:40%!important; 
+	margin-right:40%!important;
+}
+
+.string1{
+	position: relative;
+	top:15%;
+	color: #778899;
+	font-size: 23px;
+}
+
+.string2{
+	position: relative;
+	top:20%;
+	font-size: 15px;
+}
+
+.mx-auto{
+	position: relative;
+	top: 17%;
+	border-radius: 50%;
+}
+
+.info{
+	position: relative;
+	top: 22%;
+	margin: 4px;
+}
+
+.icon{
+	position: relative;
+	top: 15%;
+}
+
+.footer {
+	background-color: #A9A9A9;
+	justify-content: space-between;
+	padding: 10px;
+}
+
+.footer__inner{
+	text-align: center;
+	color: white;
+	font-size: 14px;
+	margin:1px;
+}
+
+.social{
+	margin-right: 5px;
+	text-align: center;
+}
+
+.row1{
+	background-color: #FFFAFA;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+.res{
+	position: relative; 
+    color: #000000!important;
+    text-align: center;
+    padding: 40px;
+}
+
+.col4, .col5, .col6{
+	position: relative;
+	text-align: center;
+	color:#696969;
+	min-height: 600px;
+	border: 1px solid black;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+h5{
+	text-align: left;
+	color:#2F4F4F;
+	margin-top:10%!important;
+}
